@@ -34,6 +34,8 @@
               href : ../azure-monitor/insights/container-insights-azure-redhat4-setup.md
             - name: Disable Azure Monitor for containers in Azure Red Hat OpenShift 3.11 (preview)
               href: ../azure-monitor/insights/container-insights-optout-openshift-v4.md
+    - name: Add or update your Red Hat pull secret
+      href: howto-add-or-update-your-pull-secret.md
     - name: Azure Red Hat OpenShift 3.11
       items:
         - name: Set up your Azure Red Hat OpenShift dev environment for Azure Red Hat OpenShift 3.11
